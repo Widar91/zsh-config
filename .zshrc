@@ -49,7 +49,7 @@ plugins=(git colorize colored-man tmux)
 
 # User configuration
 
-export PATH="/Users/Eddy/Library/Haskell/bin:/usr/local/Cellar/llvm/3.4/bin:/usr/local/bin/sbt:/Users/Eddy/Libraries/apache-maven-3.1.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/texbin:/Users/Eddy/Library/Haskell/bin:/usr/local/Cellar/llvm/3.4/bin:/usr/local/bin/sbt:/Users/Eddy/Libraries/apache-maven-3.1.1/bin"
+export PATH="/usr/local/bin/sbt:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
